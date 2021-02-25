@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Abelâmio",
+                "last": "Martins"
+            },
+            "location": {
+                "street": {
+                    "number": 2683,
+                    "name": "Avenida Brasil "
+                },
+                "city": "Ribeirão das Neves",
+                "state": "Rondônia",
+                "country": "Brazil",
+                "postcode": 30748,
+                "coordinates": {
+                    "latitude": "-74.7778",
+                    "longitude": "-160.2253"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "abelamio.martins@example.com",
+            "login": {
+                "uuid": "08340bc3-083d-4654-a7ff-f4d712a6a6b7",
+                "username": "yellowzebra969",
+                "password": "jennifer",
+                "salt": "dIoZAwr6",
+                "md5": "951d2d950d43177e7e783b2d5233b4ff",
+                "sha1": "0466de563fb9e3aa1d305833f5be9506ea5df3c2",
+                "sha256": "7ec8ad412fb9b44db37a02fde69b43bd76e8d0e95e40e791eb36b972bc7f4bdc"
+            },
+            "dob": {
+                "date": "1959-11-10T15:09:02.583Z",
+                "age": 62
+            },
+            "registered": {
+                "date": "2017-04-13T00:38:46.590Z",
+                "age": 4
+            },
+            "phone": "(01) 6463-7405",
+            "cell": "(05) 4540-0352",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/46.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+            },
+            "nat": "BR"
+        }
+    ],
+    "info": {
+        "seed": "408aad8fdcc282db",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
